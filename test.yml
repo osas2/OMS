@@ -10,4 +10,4 @@ scenarios:
     requests:
     - label: blazedemo
       method: GET
-      url: https://registry.terraform.io/
+      url: https://www.terraform.io/docs/language/modules/syntax.html
